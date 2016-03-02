@@ -11,5 +11,5 @@ Add node & npm to path
 
 Usage
 -----
-start mocha in watch mode and start exerimenting with the files in the test/ folder.
+start mocha in watch mode and start experimenting with the files in the test/ folder.
 > mocha --watch
